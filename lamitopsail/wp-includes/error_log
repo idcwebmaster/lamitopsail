@@ -1,0 +1,31 @@
+[16-Feb-2015 17:16:31 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home/lamitops/public_html/wp-includes/nav-menu-template.php on line 16
+[16-Feb-2015 17:16:34 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/author-template.php on line 471
+[16-Feb-2015 17:16:39 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/lamitops/public_html/wp-includes/rss.php on line 19
+[16-Feb-2015 17:16:41 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/general-template.php on line 1626
+[16-Feb-2015 17:16:51 America/Denver] PHP Fatal error:  Class 'WP_Widget' not found in /home/lamitops/public_html/wp-includes/default-widgets.php on line 14
+[16-Feb-2015 17:16:53 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home/lamitops/public_html/wp-includes/default-filters.php on line 17
+[16-Feb-2015 17:17:09 America/Denver] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/lamitops/public_html/wp-includes/class.wp-styles.php on line 19
+[16-Feb-2015 17:17:23 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/lamitops/public_html/wp-includes/registration.php on line 7
+[16-Feb-2015 17:17:24 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/lamitops/public_html/wp-includes/functions.php on line 8
+[16-Feb-2015 17:17:24 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/lamitops/public_html/wp-includes/functions.php on line 8
+[16-Feb-2015 17:17:24 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lamitops/public_html/wp-includes/functions.php on line 8
+[16-Feb-2015 17:17:31 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home/lamitops/public_html/wp-includes/shortcodes.php on line 410
+[16-Feb-2015 17:17:36 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home/lamitops/public_html/wp-includes/ms-default-filters.php on line 17
+[16-Feb-2015 17:17:40 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/canonical.php on line 552
+[16-Feb-2015 17:17:44 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/theme.php on line 679
+[16-Feb-2015 17:17:46 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home/lamitops/public_html/wp-includes/vars.php on line 23
+[16-Feb-2015 17:17:48 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/kses.php on line 1428
+[16-Feb-2015 17:17:50 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/taxonomy.php on line 129
+[16-Feb-2015 17:17:58 America/Denver] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/lamitops/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2015 17:17:58 America/Denver] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/lamitops/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2015 17:17:58 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lamitops/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2015 17:18:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/ms-default-constants.php on line 153
+[16-Feb-2015 17:18:16 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home/lamitops/public_html/wp-includes/feed-rdf.php on line 8
+[16-Feb-2015 17:18:17 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home/lamitops/public_html/wp-includes/feed-atom.php on line 8
+[16-Feb-2015 17:18:18 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home/lamitops/public_html/wp-includes/feed-rss2.php on line 8
+[16-Feb-2015 17:18:19 America/Denver] PHP Fatal error:  Class 'IXR_Server' not found in /home/lamitops/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[16-Feb-2015 17:18:24 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home/lamitops/public_html/wp-includes/category-template.php on line 893
+[16-Feb-2015 17:18:26 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/lamitops/public_html/wp-includes/rss-functions.php on line 8
+[16-Feb-2015 17:18:27 America/Denver] PHP Fatal error:  Call to undefined function feed_content_type() in /home/lamitops/public_html/wp-includes/feed-rss.php on line 8
+[16-Feb-2015 17:18:32 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/lamitops/public_html/wp-includes/post.php on line 167
+[16-Feb-2015 17:18:34 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home/lamitops/public_html/wp-includes/template-loader.php on line 28

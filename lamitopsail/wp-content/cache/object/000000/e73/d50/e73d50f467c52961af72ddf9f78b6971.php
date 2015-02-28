@@ -1,0 +1,1 @@
+¿ÚT<?php exit; ?>a:1:{s:7:"content";a:1:{s:10:"aq_block_1";a:1:{i:0;s:252:"a:10:{s:5:"title";s:0:"";s:15:"custom_category";s:0:"";s:4:"numb";s:1:"5";s:7:"id_base";s:14:"activity_block";s:4:"name";s:8:"Activity";s:5:"order";s:1:"1";s:4:"size";s:5:"span6";s:6:"parent";s:1:"0";s:6:"number";s:1:"1";s:11:"template_id";s:4:"1038";}";}}}

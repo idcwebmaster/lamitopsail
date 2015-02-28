@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TheUx Slider\n"
+"POT-Creation-Date: 2013-08-09 15:14+0700\n"
+"PO-Revision-Date: 2013-08-09 15:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: Daniel Zilli\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../includes/admin.php:21 ../../includes/admin.php:22
+#: ../../includes/admin.php:31
+msgid "Slider"
+msgstr ""
+
+#: ../../includes/admin.php:23
+msgid "Search Slides"
+msgstr ""
+
+#: ../../includes/admin.php:24
+msgid "All Slides"
+msgstr ""
+
+#: ../../includes/admin.php:25
+msgid "Parent Slide"
+msgstr ""
+
+#: ../../includes/admin.php:26
+msgid "Parent Slides:"
+msgstr ""
+
+#: ../../includes/admin.php:27
+msgid "Edit Slide"
+msgstr ""
+
+#: ../../includes/admin.php:28
+msgid "Update Slide"
+msgstr ""
+
+#: ../../includes/admin.php:29
+msgid "Add New Slide"
+msgstr ""
+
+#: ../../includes/admin.php:30
+msgid "New Slide Name"
+msgstr ""
+
+#: ../../includes/admin.php:63 ../../includes/admin.php:87
+msgid "Image"
+msgstr ""
+
+#: ../../includes/admin.php:64
+msgid "Select the background image for the slide."
+msgstr ""
+
+#: ../../includes/admin.php:69
+msgid "Color"
+msgstr ""
+
+#: ../../includes/admin.php:70
+msgid "Select the background color."
+msgstr ""
+
+#: ../../includes/admin.php:88
+msgid "Select an image"
+msgstr ""
+
+#: ../../includes/admin.php:93
+msgid "Video Link"
+msgstr ""
+
+#: ../../includes/admin.php:94
+msgid "Enter your video link"
+msgstr ""
+
+#: ../../includes/admin.php:99
+msgid "Video Dimensions"
+msgstr ""
+
+#: ../../includes/admin.php:100
+msgid "Enter element dimension as width,height.<br />Example: 500,300"
+msgstr ""
+
+#: ../../includes/admin.php:105
+msgid "Caption"
+msgstr ""
+
+#: ../../includes/admin.php:106
+msgid "Enter your caption"
+msgstr ""
+
+#: ../../includes/admin.php:111
+msgid "Caption Themes"
+msgstr ""
+
+#: ../../includes/admin.php:112
+msgid "Choose the color scheme for the captions."
+msgstr ""
+
+#: ../../includes/admin.php:115 ../../includes/admin.php:153
+#: ../../includes/admin.php:172
+msgid "None"
+msgstr ""
+
+#: ../../includes/admin.php:116
+msgid "transparent"
+msgstr ""
+
+#: ../../includes/admin.php:117
+msgid "white"
+msgstr ""
+
+#: ../../includes/admin.php:118
+msgid "black"
+msgstr ""
+
+#: ../../includes/admin.php:119
+msgid "light-green"
+msgstr ""
+
+#: ../../includes/admin.php:120
+msgid "green"
+msgstr ""
+
+#: ../../includes/admin.php:121
+msgid "orange"
+msgstr ""
+
+#: ../../includes/admin.php:122
+msgid "turky"
+msgstr ""
+
+#: ../../includes/admin.php:123
+msgid "blue"
+msgstr ""
+
+#: ../../includes/admin.php:124
+msgid "light-red"
+msgstr ""
+
+#: ../../includes/admin.php:125
+msgid "brown"
+msgstr ""
+
+#: ../../includes/admin.php:131
+msgid "Postion"
+msgstr ""
+
+#: ../../includes/admin.php:132
+msgid "Enter element position as Y,X.<br>Example: 100,10"
+msgstr ""
+
+#: ../../includes/admin.php:137
+msgid "Delay"
+msgstr ""
+
+#: ../../includes/admin.php:138
+msgid "Time in ms before the <b>in</b> transition starts."
+msgstr ""
+
+#: ../../includes/admin.php:143
+msgid "Time"
+msgstr ""
+
+#: ../../includes/admin.php:144
+msgid "Time after which the elements animation is complete in ms."
+msgstr ""
+
+#: ../../includes/admin.php:149
+msgid "Data In"
+msgstr ""
+
+#: ../../includes/admin.php:150
+msgid "Type of the in-animation."
+msgstr ""
+
+#: ../../includes/admin.php:154 ../../includes/admin.php:173
+msgid "fade"
+msgstr ""
+
+#: ../../includes/admin.php:155 ../../includes/admin.php:174
+msgid "left"
+msgstr ""
+
+#: ../../includes/admin.php:156 ../../includes/admin.php:175
+msgid "topLeft"
+msgstr ""
+
+#: ../../includes/admin.php:157 ../../includes/admin.php:176
+msgid "bottomLeft"
+msgstr ""
+
+#: ../../includes/admin.php:158 ../../includes/admin.php:177
+msgid "right"
+msgstr ""
+
+#: ../../includes/admin.php:159 ../../includes/admin.php:178
+msgid "topRight"
+msgstr ""
+
+#: ../../includes/admin.php:160 ../../includes/admin.php:179
+msgid "bottomRight"
+msgstr ""
+
+#: ../../includes/admin.php:161 ../../includes/admin.php:180
+msgid "top"
+msgstr ""
+
+#: ../../includes/admin.php:162 ../../includes/admin.php:181
+msgid "bottom"
+msgstr ""
+
+#: ../../includes/admin.php:168
+msgid "Data Out"
+msgstr ""
+
+#: ../../includes/admin.php:169
+msgid "Type of the out-animation."
+msgstr ""
+
+#: ../../includes/admin.php:187
+msgid "Step"
+msgstr ""
+
+#: ../../includes/admin.php:188
+msgid ""
+"Group elements in different steps. Elements of the next step will not start "
+"before the previous step is finished."
+msgstr ""
+
+#: ../../includes/admin.php:191 ../../includes/admin.php:221
+#: ../../includes/admin.php:262
+msgid "none"
+msgstr ""
+
+#: ../../includes/admin.php:217
+msgid "Ease In"
+msgstr ""
+
+#: ../../includes/admin.php:218
+msgid "Easing for the in-animations."
+msgstr ""
+
+#: ../../includes/admin.php:222 ../../includes/admin.php:263
+msgid "easeInQuad"
+msgstr ""
+
+#: ../../includes/admin.php:223 ../../includes/admin.php:264
+msgid "easeOutQuad"
+msgstr ""
+
+#: ../../includes/admin.php:224 ../../includes/admin.php:265
+msgid "easeInOutQuad"
+msgstr ""
+
+#: ../../includes/admin.php:225 ../../includes/admin.php:266
+msgid "easeInCubic"
+msgstr ""
+
+#: ../../includes/admin.php:226 ../../includes/admin.php:267
+msgid "easeOutCubic"
+msgstr ""
+
+#: ../../includes/admin.php:227 ../../includes/admin.php:268
+msgid "easeInOutCubic"
+msgstr ""
+
+#: ../../includes/admin.php:228 ../../includes/admin.php:269
+msgid "easeInQuart"
+msgstr ""
+
+#: ../../includes/admin.php:229 ../../includes/admin.php:270
+msgid "easeOutQuart"
+msgstr ""
+
+#: ../../includes/admin.php:230 ../../includes/admin.php:271
+msgid "easeInOutQuart"
+msgstr ""
+
+#: ../../includes/admin.php:231 ../../includes/admin.php:272
+msgid "easeInQuint"
+msgstr ""
+
+#: ../../includes/admin.php:232 ../../includes/admin.php:273
+msgid "easeOutQuint"
+msgstr ""
+
+#: ../../includes/admin.php:233 ../../includes/admin.php:274
+msgid "easeInOutQuint"
+msgstr ""
+
+#: ../../includes/admin.php:234 ../../includes/admin.php:275
+msgid "easeInSine"
+msgstr ""
+
+#: ../../includes/admin.php:235 ../../includes/admin.php:276
+msgid "easeOutSine"
+msgstr ""
+
+#: ../../includes/admin.php:236 ../../includes/admin.php:277
+msgid "easeInOutSine"
+msgstr ""
+
+#: ../../includes/admin.php:237 ../../includes/admin.php:278
+msgid "easeInExpo"
+msgstr ""
+
+#: ../../includes/admin.php:238 ../../includes/admin.php:279
+msgid "easeOutExpo"
+msgstr ""
+
+#: ../../includes/admin.php:239 ../../includes/admin.php:280
+msgid "easeInOutExpo"
+msgstr ""
+
+#: ../../includes/admin.php:240 ../../includes/admin.php:281
+msgid "easeInCirc"
+msgstr ""
+
+#: ../../includes/admin.php:241 ../../includes/admin.php:282
+msgid "easeOutCirc"
+msgstr ""
+
+#: ../../includes/admin.php:242 ../../includes/admin.php:283
+msgid "easeInOutCirc"
+msgstr ""
+
+#: ../../includes/admin.php:243 ../../includes/admin.php:284
+msgid "easeInElastic"
+msgstr ""
+
+#: ../../includes/admin.php:244 ../../includes/admin.php:285
+msgid "easeOutElastic"
+msgstr ""
+
+#: ../../includes/admin.php:245 ../../includes/admin.php:286
+msgid "easeInOutElastic"
+msgstr ""
+
+#: ../../includes/admin.php:246 ../../includes/admin.php:287
+msgid "easeInBack"
+msgstr ""
+
+#: ../../includes/admin.php:247 ../../includes/admin.php:288
+msgid "easeOutBack"
+msgstr ""
+
+#: ../../includes/admin.php:248 ../../includes/admin.php:289
+msgid "easeInOutBack"
+msgstr ""
+
+#: ../../includes/admin.php:249 ../../includes/admin.php:290
+msgid "easeInBounce"
+msgstr ""
+
+#: ../../includes/admin.php:250 ../../includes/admin.php:291
+msgid "easeOutBounce"
+msgstr ""
+
+#: ../../includes/admin.php:251 ../../includes/admin.php:292
+msgid "easeInOutBounce"
+msgstr ""
+
+#: ../../includes/admin.php:258
+msgid "Ease Out"
+msgstr ""
+
+#: ../../includes/admin.php:259
+msgid "Easing for the out-animations."
+msgstr ""
+
+#: ../../includes/admin.php:312
+#, php-format
+msgid "Slide updated. <a href=\"%s\">View slide</a>"
+msgstr ""
+
+#: ../../includes/admin.php:313
+msgid "Custom field updated."
+msgstr ""
+
+#: ../../includes/admin.php:314
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../../includes/admin.php:315
+msgid "Slide updated."
+msgstr ""
+
+#: ../../includes/admin.php:316
+#, php-format
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#: ../../includes/admin.php:317
+#, php-format
+msgid "Slide published. <a href=\"%s\">View slide</a>"
+msgstr ""
+
+#: ../../includes/admin.php:318
+msgid "Slide saved."
+msgstr ""
+
+#: ../../includes/admin.php:319
+#, php-format
+msgid "Slide submitted. <a target=\"_blank\" href=\"%s\">Preview slide</a>"
+msgstr ""
+
+#: ../../includes/admin.php:320
+#, php-format
+msgid ""
+"Slide scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview slide</a>"
+msgstr ""
+
+#: ../../includes/admin.php:320
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../../includes/admin.php:321
+#, php-format
+msgid "Slide draft updated. <a target=\"_blank\" href=\"%s\">Preview slide</a>"
+msgstr ""
+
+#: ../../includes/cuztom/cuztom.php:213
+#: ../../includes/cuztom/classes/fields/image.class.php:29
+msgid "Remove current image"
+msgstr ""
+
+#: ../../includes/cuztom/cuztom.php:214
+#: ../../includes/cuztom/classes/fields/file.class.php:35
+msgid "Remove current file"
+msgstr ""
+
+#: ../../includes/cuztom/classes/cuztom.class.php:157
+msgid "Use of a reserved term."
+msgstr ""
+
+#: ../../includes/cuztom/classes/field.class.php:163
+msgid "Save"
+msgstr ""
+
+#: ../../includes/cuztom/classes/meta.class.php:96
+#: ../../includes/cuztom/classes/fields/bundle.class.php:25
+#: ../../includes/cuztom/classes/fields/tab.class.php:45
+msgid "Add"
+msgstr ""
+
+#: ../../includes/cuztom/classes/meta_box.class.php:159
+#: ../../includes/cuztom/classes/taxonomy.class.php:176
+msgid "Date"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:75
+#: ../../includes/cuztom/classes/post_type.class.php:76
+#: ../../includes/cuztom/classes/post_type.class.php:77
+#: ../../includes/cuztom/classes/post_type.class.php:96
+#: ../../includes/cuztom/classes/taxonomy.class.php:100
+#: ../../includes/cuztom/classes/taxonomy.class.php:101
+#: ../../includes/cuztom/classes/taxonomy.class.php:110
+#: ../../includes/cuztom/classes/taxonomy.class.php:118
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:78
+#: ../../includes/cuztom/classes/taxonomy.class.php:103
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:79
+msgid "Add New"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:80
+#: ../../includes/cuztom/classes/taxonomy.class.php:108
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:81
+#: ../../includes/cuztom/classes/taxonomy.class.php:106
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:82
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:83
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:84
+#, php-format
+msgid "%s Archive"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:85
+#: ../../includes/cuztom/classes/taxonomy.class.php:102
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:86
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:87
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: ../../includes/cuztom/classes/post_type.class.php:88
+#, php-format
+msgid "%s Parent"
+msgstr ""
+
+#: ../../includes/cuztom/classes/taxonomy.class.php:104
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/taxonomy.class.php:105
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: ../../includes/cuztom/classes/taxonomy.class.php:107
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/taxonomy.class.php:109
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: ../../includes/cuztom/classes/taxonomy.class.php:233
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: ../../includes/cuztom/classes/fields/bundle.class.php:60
+#: ../../includes/cuztom/classes/fields/bundle.class.php:107
+msgid "This input type doesn't support the bundle functionality (yet)."
+msgstr ""
+
+#: ../../includes/cuztom/classes/fields/file.class.php:34
+msgid "Select file"
+msgstr ""
+
+#: ../../includes/cuztom/classes/fields/image.class.php:28
+msgid "Select image"
+msgstr ""
+
+#: ../../includes/cuztom/classes/fields/yesno.class.php:15
+msgid "Yes"
+msgstr ""
+
+#: ../../includes/cuztom/classes/fields/yesno.class.php:18
+msgid "No"
+msgstr ""

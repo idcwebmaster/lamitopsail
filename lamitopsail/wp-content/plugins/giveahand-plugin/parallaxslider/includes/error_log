@@ -1,0 +1,2 @@
+[16-Feb-2015 17:20:45 America/Denver] PHP Fatal error:  Class 'Cuztom_Post_Type' not found in /home/lamitops/public_html/wp-content/plugins/giveahand-plugin/parallaxslider/includes/admin.php on line 9
+[16-Feb-2015 17:20:46 America/Denver] PHP Fatal error:  Class 'WP_Query' not found in /home/lamitops/public_html/wp-content/plugins/giveahand-plugin/parallaxslider/includes/public.php on line 24

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en-US" class="ie8"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+		<meta charset="UTF-8">
+	<title>STEM Event in Wilmington | Los Angeles Maritime Institute</title>
+	<meta name="description" content="TopSail Youth Program">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Pingbacks -->
+	<link rel="pingback" href="http://www.lamitopsail.org/xmlrpc.php" />
+	
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicon and Apple Icons -->
+	<link rel="shortcut icon" href="">
+	<link rel="apple-touch-icon" href="">
+	<link rel="apple-touch-icon" sizes="72x72" href="">
+	<link rel="apple-touch-icon" sizes="114x114" href="">
+<!-- Load Custome Theme Fonts for LAMI -->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Open+Sans:300italic,400italic,600italic,700italic,400,700,600,300:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); 
+</script>
+	<script type='text/javascript'>
+		google_map_code = '';
+	</script>
+	<link rel="alternate" type="application/rss+xml" title="Los Angeles Maritime Institute &raquo; Feed" href="http://www.lamitopsail.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Los Angeles Maritime Institute &raquo; Comments Feed" href="http://www.lamitopsail.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Los Angeles Maritime Institute &raquo; STEM Event in Wilmington Comments Feed" href="http://www.lamitopsail.org/news/stem-event-in-wilmington/feed/" />
+<link rel='stylesheet' id='aqpb-view-css-css'  href='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/page-builder/aqua-page-builder/assets/css/aqpb-view.css?ver=1425141474' type='text/css' media='all' />
+<link rel='stylesheet' id='give-styles-css'  href='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/css/styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-css'  href='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/css/prettyPhoto.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.lamitopsail.org/wp-content/themes/giveahand_wordpress_theme/css/bootstrap.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.lamitopsail.org/wp-content/themes/giveahand_wordpress_theme_child/style.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.lamitopsail.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fx-plugin-styles-css'  href='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/parallaxslider/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-qtip-css'  href='http://www.lamitopsail.org/wp-content/plugins/google-calendar-events/css/jquery.qtip.min.css?ver=2.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-public-css'  href='http://www.lamitopsail.org/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=2.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='mytheme-gothic-one-css'  href='http://fonts.googleapis.com/css?family=Pathway+Gothic+One&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mytheme-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans&#038;ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style.owl.carousel-css'  href='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style.owl.carousel.theme-css'  href='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style.owl.carousel.transitions-css'  href='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style.owl.carousel.styles-css'  href='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/css/styles.css?ver=4.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/owl-carousel/js/script.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lamitopsail.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lamitopsail.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='STEM Waterfront Education' href='http://www.lamitopsail.org/news/stem-waterfront-education-collaboration/' />
+<meta name="generator" content="WordPress 4.0.1" />
+<link rel='canonical' href='http://www.lamitopsail.org/news/stem-event-in-wilmington/' />
+<link rel='shortlink' href='http://www.lamitopsail.org/?p=1424' />
+		<style type="text/css">
+	body {background-color:#FFFFFF;}		body {background-repeat:no-repeat;}			body, p {font:normal 13px "Open Sans"; line-height:1.6923em; color:#3d4a5d}	.button,.tagcloud > a, .more-link, input[type="submit"], .filter > li > a, .reply-button > a, .comment-edit-link, .button-custom, .bx-controls-direction>a {background-color:#0F5D7F;}	.top-contact-container {background-color:#BE5555;}.main-navigation > div > ul > li > a:hover, .main-navigation > div > ul > li.current_page_item > a, .sub-menu > li > a:hover, .sub-menu > li.current_page_item > a, .main-navigation .children > li > a:hover, .main-navigation .children > li.current_page_item > a,  {background-color:#BE5555;}.cart-menu .icon-basket {color:#BE5555;}.copyright-container {background-color:#BE5555;}	.footer-widget-area {background-color:#182028;}	
+	</style>
+	
+	
+  <!-- Custom CSS -->
+</head>
+<body class="single single-news postid-1424">
+	<!-- HEADER -->
+	<header class="main-header" id="top">
+
+	<div class="donation-overlay">				
+	<div class="donation-container">
+		<h3 class="donation-header">Donate</h3>
+		<p class="donation-descr">Donate</p>
+			<div class="donation-form">
+				<form method="post" action= "https://www.sandbox.paypal.com/cgi-bin/webscr">
+					<div class="form-amount">
+						<input type="hidden" name="cmd" value="_xclick">
+						<input type="hidden" name="business" value="paypal@lamitopsail.com">
+						<input type="hidden" name="item_name" value="Donate">
+						<input type="hidden" name="item_number" value="">
+						<input type="input" name="amount" value="20">
+						<input type="hidden" name="currency_code" value="usd">
+						<input type="hidden" name="no_shipping" value="1">		
+													
+						<span class="curr-code">$</span>
+						<span class="curr-name">usd</span>
+					</div>
+					<div class="donation-form-submit">
+						<input type="submit" value="Donate">
+					</div>
+				</form>	
+				<span class="form-close"></span>
+			</div>
+	</div>
+</div>
+			<div class="top-contact-container">
+		
+			<div class="container">
+				<div class="row">
+				<div class="contacts span6">
+								</div>
+								<div class="social-icons span6">
+
+								
+								<a class="icon-6" href="http://instagram.com/tallshipschool"></a>
+								
+								
+								<a class="icon-5" href="https://www.youtube.com/user/lamitopsail"></a>
+								
+								
+								<a class="icon-4" href="https://www.pinterest.com/tallshipschool/"></a>
+															
+															<a class="icon-2" href="https://twitter.com/lami_topsail"></a>
+																						<a class="icon-1" href="https://www.facebook.com/lami.topsail"></a>
+												</div>
+				 				<div class="buttons-head">	
+					<a class="head-button-1" href="http://visitor.r20.constantcontact.com/manage/optin?v=001D5M72sEPb7rfwH_C20otjGGpza5vo5Umj_1Fweg3a9T_tS0lPbhk1xtN23bEtyy3wOZexAs-BbiYb2QdSVPXHwRMascTGRSgsGH2SVEidmk%3D" target="_blank">JOIN MAILING LIST</a>
+					<a class="head-button-2" href="/donate">DONATE</a>
+
+				</div>
+				</div>
+			</div> <!-- end container -->
+			
+		</div> <!-- end top-menu-container -->
+		
+		<div class="container">
+		
+			<div class="row">
+			
+				<div class="span3 logo-container">
+
+					<h1 class="logo"  style="margin-top:0px; ">
+					
+																					<a href="http://www.lamitopsail.org/" class="image-logo"><img src="http://www.lamitopsail.org/wp-content/uploads/2014/07/logo-lami.jpg" alt="Los Angeles Maritime Institute" title="TopSail Youth Program"></a>
+																			
+					</h1>
+				
+				</div> <!-- end span3 -->
+				
+				<div class="span9 clearfix">
+				
+													
+					<nav class="main-navigation clearfix">
+						<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-1271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-parent menu-item-1271"><a href="/about-us/mission-vision/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="http://www.lamitopsail.org/about-us/mission-vision/">Mission &#038; Vision</a></li>
+	<li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="http://www.lamitopsail.org/about-us/history-of-topsail/">History of TopSail</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="http://www.lamitopsail.org/about-us/our-ships/">Our Ships</a></li>
+	<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://www.lamitopsail.org/about-us/staff-crew/">Staff &#038; Crew</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://www.lamitopsail.org/about-us/directors/">Board Of Directors</a></li>
+	<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="http://www.lamitopsail.org/about-us/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-1270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-parent menu-item-1270"><a href="/activities/">Come Aboard</a>
+<ul class="sub-menu">
+	<li id="menu-item-1279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1279"><a title="Upcoming Events" href="http://www.lamitopsail.org/activities/">Upcoming Public Events</a></li>
+	<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="http://www.lamitopsail.org/come-aboard/sailing-calendar/">Sailing Calendar</a></li>
+	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://www.lamitopsail.org/come-aboard/book-our-brigantines/">Book Our Brigantines</a></li>
+	<li id="menu-item-1196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1196"><a href="/wp-content/uploads/2014/11/High-Impact-Team-Building.pdf">Team Building</a></li>
+</ul>
+</li>
+<li id="menu-item-631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-parent menu-item-631"><a href="http://www.lamitopsail.org/programs/">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="http://www.lamitopsail.org/programs/topsail-youth-program/">TopSail Youth Program</a></li>
+	<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://www.lamitopsail.org/programs/topsail-s-t-e-a-m-program/">TopSail S.T.E.M. Program</a></li>
+	<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="http://www.lamitopsail.org/programs/youth-crew-program/">Youth Crew Program</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://www.lamitopsail.org/programs/why-sail-training/">Why Sail Training</a></li>
+</ul>
+</li>
+<li id="menu-item-981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-parent menu-item-981"><a href="/donate/">Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="http://www.lamitopsail.org/annual-appeal/">Annual Appeal</a></li>
+	<li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618"><a href="http://www.lamitopsail.org/donate/">Donate</a></li>
+	<li id="menu-item-1317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1317"><a href="http://www.lamitopsail.org/wish-list/">Wish List</a></li>
+	<li id="menu-item-624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-624"><a href="http://getlaminated.org/">Membership</a></li>
+	<li id="menu-item-697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-697"><a href="https://smile.amazon.com/ch/33-0515416">AmazonSmile</a></li>
+	<li id="menu-item-1193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1193"><a href="http://www.lamitopsail.org/sponsors-partnerships/">Supporters</a></li>
+	<li id="menu-item-625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-625"><a href="https://squareup.com/market/lami-topsail">Ship Store</a></li>
+</ul>
+</li>
+<li id="menu-item-947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-parent menu-item-947"><a href="/getting-started/">Volunteer</a>
+<ul class="sub-menu">
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://www.lamitopsail.org/getting-started/">Getting Started</a></li>
+	<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://www.lamitopsail.org/volunteer/crew-training-program/">Crew Training Program</a></li>
+	<li id="menu-item-1076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="http://www.lamitopsail.org/volunteer/crew-training-schedule/">Crew Training Calendar</a></li>
+	<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="http://www.lamitopsail.org/volunteer/forms-training-materials/">Forms &#038; Training Materials</a></li>
+</ul>
+</li>
+<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-parent menu-item-345"><a href="http://www.lamitopsail.org/news/">Newsroom</a>
+<ul class="sub-menu">
+	<li id="menu-item-946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-946"><a href="/news/">TopSail in the News</a></li>
+	<li id="menu-item-1044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1044"><a href="/gallery/">Photo Gallery</a></li>
+	<li id="menu-item-1045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1045"><a href="https://www.youtube.com/user/lamitopsail">Videos</a></li>
+	<li id="menu-item-1049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1049"><a href="http://www.lamitopsail.org/faq/">F.A.Q.</a></li>
+</ul>
+</li>
+</ul></div>					</nav>
+					
+				</div> <!-- end span9 -->
+				
+				<a href="#" class="mobile-menu-trigger"></a>
+				
+			</div> <!-- end row -->
+			
+		<div class="mobile-menu"></div> <!-- end mobile-menu -->
+			
+		</div> <!-- end container -->
+		
+	</header> <!-- end main-header -->
+		
+		  
+			<div class="title-section">
+				<div class="container">
+					<div class="title-block"><!-- page title -->
+						<div class="page-divider"></div>					
+						<div class="page-title"><strong></strong>  STEM Event in Wilmington<span>
+							<div class="page-divider-top"></div>
+							<div class="page-divider-bottom"></div>
+						</span>
+						</div>
+					</div>
+				</div>
+			</div>
+				
+	<!-- MAIN CONTENT -->
+	<div id="main">
+		
+		<section>
+		
+		<div class="container">			
+
+		<!-- Posts -->
+			
+			<div class="row">
+		
+				<div class="main-articles  single-post span9"> 
+				
+																<article>
+
+							<figure class="article-preview-image">
+							
+														
+																			<a href="http://www.lamitopsail.org/news/stem-event-in-wilmington/">
+												<img width="679" height="387" src="http://www.lamitopsail.org/wp-content/uploads/2015/02/STEM_flyer_feature.jpg" class="attachment-post wp-post-image" alt="STEM Event in Wilmington" />											</a>
+											
+								
+										<div class="meta"><span>27</span><br>Feb</div>
+								
+								
+							</figure>
+							
+							<div class="article-meta clearfix">
+								
+								<p class="userPost"><a href="http://www.lamitopsail.org/author/joleen-deatherage/" title="Posts by Joleen Deatherage" rel="author">Joleen Deatherage</a></p>
+		
+										
+								<p class="categories-container"></p>
+								
+																
+							</div>
+							
+							<hr>
+								
+							<div class="article-main">
+							
+								<header>
+									
+									<h3>STEM Event in Wilmington</a></h3>
+									
+								</header>
+
+								<p>Join us at Banning&#8217;s Landing on March 21st for a free family-friendly STEM event sponsored by the Port of Los Angeles.  We&#8217;ll be showcasing our TopSail STEM Program &#8211; a pilot program that it is in full swing with Wilmington Middle School.  STEM learning has always been part of our TopSail program, but now we&#8217;re making it official!</p>
+<p><a href="http://www.lamitopsail.org/wp-content/uploads/2015/02/STEM_flyer_POLA.jpg"><img class="aligncenter wp-image-1425 size-large" src="http://www.lamitopsail.org/wp-content/uploads/2015/02/STEM_flyer_POLA-791x1024.jpg" alt="STEM Event at Banning's Landing" width="791" height="1024" /></a></p>
+							<div>
+								
+																
+							</div> <!-- end post-navigation -->								
+							</div>
+								
+						</article> <!-- end article -->
+						
+						<div class="share-block clearfix">
+						
+							<span>Share:</span>
+
+								<a class="small-facebook-icon" href="http://www.facebook.com/sharer.php?u=http://www.lamitopsail.org/news/stem-event-in-wilmington/&t=STEM Event in Wilmington" target="blank"></a>
+
+								<a class="small-twitter-icon" href="https://twitter.com/share?url=https%3A%2F%2Fdev.twitter.com%2Fpages%2Ftweet-button" target="_blank"></a>
+								
+								<a class="small-google-icon" href="https://plus.google.com/share?url={URL}" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"></a>
+								
+						</div>
+						
+							<p class="post-navigation">
+
+			<a href="http://www.lamitopsail.org/news/stem-waterfront-education-collaboration/" rel="prev">&laquo</a>			
+	</p><!-- .navigation -->
+	<div class="clear"></div>
+							
+													
+							<p>Comments are closed.</p>
+								
+				</div> <!-- end main articles - single post -->
+
+								
+				<aside class="span3 main-sidebar">
+					
+					<div class="widget"><h3>DONATE</h3>			<div class="textwidget"><hr>
+Support life-changing experiences at sea for L.A.'s youth!
+<br>
+<div class="button"><a href="/donate/">READY TO HELP</a></div></div>
+		</div> <!-- end sidebar-widget --><div class="widget"><h3>BOOKING</h3>			<div class="textwidget"><hr>
+Book our brigantines for private charters, celebrations and film shoots.
+<br>
+<div class="button"><a href="/come-aboard/book-our-brigantines/">LEARN MORE</a></div></div>
+		</div> <!-- end sidebar-widget --><div class="widget"><h3>VOLUNTEER</h3>			<div class="textwidget"><hr>
+Together, we can continue to impact youth in our community!
+<br>
+<div class="button"><a href="/getting-started/">JOIN OUR CREW</a></div></div>
+		</div> <!-- end sidebar-widget --><div class="widget"><h3>VISIT OUR ONLINE SHOP</h3>			<div class="textwidget"><hr>
+<a href="https://squareup.com/market/lami-topsail" target="_blank"><img src="/wp-content/uploads/2014/10/store-001.png" alt="image ball cap"></a>
+Your purchase goes directly to our programs! Visit our shop and see all the great products we have to offer.
+<br>
+<div class="button"><a href="https://squareup.com/market/lami-topsail" target="_blank">SHOP NOW</a></div></div>
+		</div> <!-- end sidebar-widget -->
+				</aside>
+				
+							
+			</div>
+			
+		</div>
+		
+		</section>
+		
+	</div> <!-- end main -->	
+
+	<!-- FOOTER -->
+	<footer>
+			
+		<div class="copyright-container clearfix">
+			
+			<div class="container">
+				<!-- Begin custom footer-->
+<div class="footer-lami">
+	<div class="footer-contact colfoot">
+		<h4>CONTACT US</h4>
+		<p>Los Angeles Maritime Institute<br>
+		Berth 73, Suite 2<br>
+		San Pedro, CA 90731<br>
+		Tel: 310.833.6055</p>
+		<span>
+		<p>General Inquiries:<br> 
+		<a href="mailto:info@lamitopsail.org">info@lamitopsail.org</a>
+		</p></span>	
+	</div>
+	<div class="footer-partners colfoot">
+		<h4>PARTNERS</h4>
+		<a href="/sponsors-partnerships/"><img src="/wp-content/uploads/2014/08/la-port-logo.jpg" alt="la port authority"></a>
+	</div>
+	<div class="footer-atsea colfoot">
+		<h4>AT SEA WITH TOPSAIL</h4>
+		<ul>
+			<li><a href="/gallery"><img src="/wp-content/uploads/2014/08/gallery-thumb-01.jpg" alt="photo 1"></a></li>
+			<li><a href="/gallery"><img src="/wp-content/uploads/2014/08/gallery-thumb-03.jpg" alt="photo 3"></a></li>
+			<li><a href="/gallery"><img src="/wp-content/uploads/2014/08/gallery-thumb-02.jpg" alt="photo 2"></a></li>
+			<li><a href="/gallery"><img src="/wp-content/uploads/2014/10/gallery-thumb-03x.jpg" alt="photo 4"></a></li>
+		</ul>
+		<!--p class="visitphoto"><a href="/gallery">visit our <b>photo gallery <b></a></p-->
+	</div>
+	<div class="footer-mail colfoot>
+<div style="text-align:center;"> <a href="http://greatnonprofits.org/reviews/los-angeles-maritime-institute"><img src="/wp-content/uploads/2014/11/GreatNonprofits.jpg" title="2014 Top-rated nonprofits and charities" alt="2014 Top-rated nonprofits and charities" /></a>&nbsp;<a href="http://www.guidestar.org/organizations/33-0515416/los-angeles-maritime-institute.aspx" target="_blank"><img src="/wp-content/uploads/2014/11/GX-Silver-Participant-sm.png" height="75"></a></br></br>
+<a href="http://smile.amazon.com/ch/33-0515416"><img src="http://www.lamitopsail.org/wp-content/uploads/2014/12/AmazonSmile.jpg"></a></div>
+
+	</div>
+	<!--div class="footer-mail colfoot">
+		<h4>JOIN OUR MAILING LIST</h4>
+
+		<form name="input" action="MAILTO:info@lamitopsail.org" method="post" enctype="text/plain">
+			<input type="text" name="FirstName" value="YOUR NAME"><br>
+			<input type="text" name="LastName" value="EMAIL ADDRESS"><br>
+			<input type="submit" value="Submit">
+		</form>
+	</div-->
+</div>
+<!-- End custom footer-->
+								
+					<div class="menu-short-container">
+					<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-658"><a href="http://www.lamitopsail.org/news/">Newsroom</a></li>
+<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a href="/getting-started/">Volunteer</a></li>
+<li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="/donate/">Support</a></li>
+<li id="menu-item-655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a href="http://www.lamitopsail.org/programs/">Programs</a></li>
+<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="http://www.lamitopsail.org/come-aboard/">Come Aboard</a></li>
+<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="http://www.lamitopsail.org/about-us/">About Us</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://www.lamitopsail.org/">Home</a></li>
+</ul></div>					</div>
+					
+				
+				<p><a class="bloginfoclass" href="http://www.lamitopsail.org">Los Angeles Maritime Institute</a>
+				© 2014			</div> <!-- end container -->
+			
+		</div> <!-- end copyright-container -->
+		
+	</footer>
+	
+	<!-- Show Google Analytics -->
+	
+	<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/page-builder/aqua-page-builder/assets/js/aqpb-view.js?ver=1425141474'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.masonry.min.js?ver=2.1.08'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.appear.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.quicksand.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.prettyPhoto.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.bxslider.min.js?ver=4.1.1'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.parallax-1.1.3.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/jquery.mb.YTPlayer.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin//js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-includes/js/comment-reply.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/themes/giveahand_wordpress_theme/js/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/themes/giveahand_wordpress_theme/js/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/themes/giveahand_wordpress_theme/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.lamitopsail.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.3'></script>
+<script type='text/javascript' src='http://www.lamitopsail.org/wp-content/plugins/giveahand-plugin/parallaxslider/assets/js/jquery.fractionslider.min.js?ver=0.9.9.9'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk: enhanced
+Database Caching 11/76 queries in 0.012 seconds using disk
+Object Caching 1947/2111 objects using disk
+
+ Served from: www.lamitopsail.org @ 2015-02-28 16:37:54 by W3 Total Cache -->
